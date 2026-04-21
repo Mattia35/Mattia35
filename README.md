@@ -1,8 +1,11 @@
 <div align="center"> Hi, I'm Mattia 👋
 
-I'm a Computer Science MSc student at the University of Rome, currently focusing on security, computer networks, and machine learning.
+I'm a Computer Science MSc student at the University of Rome, currently focusing on 
+security, computer networks, and machine learning.
 
-At the moment, I’m working on a project that combines biometric systems and artificial intelligence, exploring how machine learning techniques can improve identity recognition and strengthen security systems.
+At the moment, I’m working on a project that combines biometric systems and artificial 
+intelligence, exploring how machine learning techniques can improve identity recognition 
+and strengthen security systems.
 
 📫 You can reach me at: mattiaprisco2509@gmail.com
 </div>
